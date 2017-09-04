@@ -1,2 +1,2 @@
 # Reddit_Recommender_System
-Recommender system for Reddit website.
+Recommending movies to users using Collaborative Filtering
